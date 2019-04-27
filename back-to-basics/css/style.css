@@ -1,0 +1,32 @@
+p{color: rgba(0,0,0,.5)}
+header{    padding: 1% 0 0 ;}
+.container{max-width: 100%}
+header .first-head{float: left}
+header .secon-head{float: right}
+header .secon-head form {display: flex}
+header .secon-head form button{margin-left: 10px}
+header .secon-head form input[type="text"]{display: inline;}
+/************************************************/
+.navbar .ml-auto li{    background-color: #333;
+    color: #fff;
+    padding: 6px 10px;;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+}
+/************************************************/
+.carousel-caption{background-color: #333;
+    padding: 42px;
+    left: 10px;
+    bottom: 50px;
+    margin-right: 53%;
+}
+/************************************************/
+
+.articles {padding: 3% 0}
+.buttonn{display: none;    position: fixed;
+    bottom: 10px;
+    right: 50%;
+}
+.btn-danger{margin-bottom: 20px}
